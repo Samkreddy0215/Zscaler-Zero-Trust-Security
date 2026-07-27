@@ -17,3 +17,16 @@
 - Identity Integration
 - MFA
 - Private Application Access
+
+## Zero Trust Components
+
+- Zscaler Internet Access (ZIA)
+- Zscaler Private Access (ZPA)
+- Zero Trust Network Access (ZTNA)
+- SSL Inspection
+- Secure Web Gateway (SWG)
+- Cloud Firewall
+- Data Loss Prevention (DLP)
+- Identity Integration
+- Policy Enforcement
+- Monitoring and Reporting
