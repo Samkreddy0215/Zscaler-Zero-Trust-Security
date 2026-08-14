@@ -30,3 +30,12 @@
 - Identity Integration
 - Policy Enforcement
 - Monitoring and Reporting
+
+## ZPA Troubleshooting Guides
+
+- Application Connectivity Troubleshooting
+- Client Connector Validation
+- Access Policy Troubleshooting
+- App Connector Health
+- Private DNS Resolution
+- Backend Application Reachability
